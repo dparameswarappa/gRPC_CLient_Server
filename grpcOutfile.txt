@@ -1,0 +1,15 @@
+update: <
+  timestamp: 1469477136464662396
+  prefix: <
+    element: "system"
+    element: "netype"
+  >
+  update: <
+    path: <
+      element: "manuf"
+    >
+    value: <
+      value: "CIENA"
+    >
+  >
+ 
